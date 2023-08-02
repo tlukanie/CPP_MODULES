@@ -18,7 +18,7 @@ Contact::Contact(void)
 	return ;
 }
 
-// Deconstructor
+// Destructor
 Contact::~Contact(void)
 {
 	return ;
